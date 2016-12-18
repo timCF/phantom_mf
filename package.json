@@ -1,0 +1,22 @@
+{
+  "name": "phantom_mf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timCF/phantom_mf.git"
+  },
+  "author": "timCF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timCF/phantom_mf/issues"
+  },
+  "dependencies": {
+    "funphan": "git://github.com/timCF/funphan"
+  },
+  "homepage": "https://github.com/timCF/phantom_mf#readme"
+}
